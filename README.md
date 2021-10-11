@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄸;+𝐈+𝗮𝗺+𝐙𝐨𝐧𝐢𝐜𝐤;𝐊𝐈𝐍𝐆+𝐒𝐇𝐀𝐍𝐀;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄸;+𝐈+𝗮𝗺+𝐙𝐨𝐧𝐢𝐜𝐤;𝐊𝐈𝐍𝐆+𝐒𝐇𝐀𝐍𝐀;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">. 
+
 
 </br>
 
