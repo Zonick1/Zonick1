@@ -6,7 +6,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=Zonick%20-%20KING-%20SHANA&description=Hi,%20I'm%20a%20simple%20Developer%20😗&image=https://i.imgur.com/MZDCN2M.jpeginstagram=___two____three___&linkedin=___Darken____Pasiya___&github=Darken_Pasiya&twitter=@)
 <p>
-
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
 
 <!---
@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄸;+𝐈+𝗮𝗺+𝐙𝐨𝐧𝐢𝐜𝐤;𝐊𝐈𝐍𝐆+𝐒𝐇𝐀𝐍𝐀;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">. 
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23BA00FF&lines=🄷🄴🄻🄻🄾+𝐈+𝗮𝗺+𝐙𝐨𝐧𝐢𝐜𝐤+𝐊𝐈𝐍𝐆+𝐒𝐇𝐀𝐍𝐀;𝗦𝗶𝗺𝗽𝗹𝗲+𝗣𝗹𝘂𝗴𝗶𝗻;𝗔𝗻𝗱;𝗧𝗼𝗼𝗹+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+🛠😎&font=Fira%20Code&center=true&width=250&height=50">
 
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
 </br>
 
