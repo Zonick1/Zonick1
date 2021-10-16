@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href="https://github.com/Darken-Pasiya"><img title="Darken Pasiya" src="https://github-readme-stats.vercel.app/api?username=Darken-Pasiya&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/Zonick1"><img title="Zonick" src="https://github-readme-stats.vercel.app/api?username=Zonick&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p>
